@@ -1,3 +1,7 @@
+## EXAM LINK
+https://naeemullah-khan.github.io/KAIAI24B2/
+
+
 ## Instructor
 
 Dr. Muzammal Naseer
